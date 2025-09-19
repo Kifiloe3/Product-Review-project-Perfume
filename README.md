@@ -23,7 +23,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
 
 ### Screenshot
 
@@ -82,7 +81,7 @@ I’ve noticed that I sometimes take more time than I plan when working on proje
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Kifiloe3](https://www.frontendmentor.io/profile/Kifiloe3)
 
 ## Acknowledgments
 
