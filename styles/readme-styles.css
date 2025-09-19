@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  color: #212121;
+}
+
+h1, h2, h3 {
+  color: #333;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

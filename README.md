@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/product-review-project-perfume-v2LE1AKDbg)
 - Live Site URL: [live site](https://kifiloe3.github.io/Product-Review-project-Perfume/)
 
 ## My process
